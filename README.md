@@ -34,7 +34,7 @@ activating a blinking LED and a piezoelectric buzzer with a powerful sound. To s
 ### Menu
 ![alt_text](https://github.com/paulzamfir98/Security-alarm/blob/master/Screenshots/1.png)
 
-### Change Password
+### Password change
 ![alt_text](https://github.com/paulzamfir98/Security-alarm/blob/master/Screenshots/2.png)
 
 ### Alarm countdown
@@ -43,7 +43,7 @@ activating a blinking LED and a piezoelectric buzzer with a powerful sound. To s
 ### Enter Password when alarm is activated
 ![alt_text](https://github.com/paulzamfir98/Security-alarm/blob/master/Screenshots/4.png)
 
-### Alert for bad password
+### Alert for wrong password
 ![alt_text](https://github.com/paulzamfir98/Security-alarm/blob/master/Screenshots/5.png)
 
 ## Deployment
