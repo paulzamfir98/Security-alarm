@@ -1,4 +1,4 @@
-# Physics-Project
+# Security Alarm
 Security alarm made with Arduino.
 
 ## Description
