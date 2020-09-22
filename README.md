@@ -24,6 +24,11 @@ activating a blinking LED and a piezoelectric buzzer with a powerful sound. To s
   - LED (10k Ohm)
   - Resistors (2k Ohm, 220 Ohm)
   - Wires
+  
+## Upgrades to be added
+  - Option to deactivate the alarm without triggering it
+  - Hardware setup
+  
 ## Screenshots
 
 ### Menu
