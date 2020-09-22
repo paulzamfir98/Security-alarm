@@ -27,21 +27,21 @@ activating a blinking LED and a piezoelectric buzzer with a powerful sound. To s
 ## Screenshots
 
 ### Menu
-![alt_text](https://github.com/paulzamfir98/Physics-Project/blob/master/Screenshots/1.png)
+![alt_text](https://github.com/paulzamfir98/Security-alarm/blob/master/Screenshots/1.png)
 
 ### Change Password
-![alt_text](https://github.com/paulzamfir98/Physics-Project/blob/master/Screenshots/2.png)
+![alt_text](https://github.com/paulzamfir98/Security-alarm/blob/master/Screenshots/2.png)
 
 ### Alarm countdown
-![alt_text](https://github.com/paulzamfir98/Physics-Project/blob/master/Screenshots/3.png)
+![alt_text](https://github.com/paulzamfir98/Security-alarm/blob/master/Screenshots/3.png)
 
 ### Enter Password when alarm is activated
-![alt_text](https://github.com/paulzamfir98/Physics-Project/blob/master/Screenshots/4.png)
+![alt_text](https://github.com/paulzamfir98/Security-alarm/blob/master/Screenshots/4.png)
 
 ### Alert for bad password
-![alt_text](https://github.com/paulzamfir98/Physics-Project/blob/master/Screenshots/5.png)
+![alt_text](https://github.com/paulzamfir98/Security-alarm/blob/master/Screenshots/5.png)
 
 ## Deployment
    - Connect all the components as shown in the screenshot.
-   
+   ![alt_text](https://github.com/paulzamfir98/Security-alarm/blob/master/Screenshots/system.png)
    - Insert the code in the Arduino board.
