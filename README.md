@@ -26,19 +26,19 @@ activating a blinking LED and a piezoelectric buzzer with a powerful sound. To s
   - Wires
 ## Screenshots
 
-### Add environment data
+### Menu
 ![alt_text](https://github.com/paulzamfir98/Physics-Project/blob/master/Screenshots/1.png)
 
-### Add layer data
+### Change Password
 ![alt_text](https://github.com/paulzamfir98/Physics-Project/blob/master/Screenshots/2.png)
 
-### Alert for bad data
+### Alarm countdown
 ![alt_text](https://github.com/paulzamfir98/Physics-Project/blob/master/Screenshots/3.png)
 
-### Diagram
+### Enter Password when alarm is activated
 ![alt_text](https://github.com/paulzamfir98/Physics-Project/blob/master/Screenshots/4.png)
 
-### Pop-up save dialog
+### Alert for bad password
 ![alt_text](https://github.com/paulzamfir98/Physics-Project/blob/master/Screenshots/5.png)
 
 ## Deployment
